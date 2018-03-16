@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\JAVA\MavenResponse" />
+        <option name="mavenHome" value="D:/JAVA/Maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\JAVA\Maven\apache-maven-3.3.9\conf\settings-2.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" default="true" />
+</project>

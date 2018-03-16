@@ -1,0 +1,9 @@
+
+
+target_url_rule = //*/@href
+
+
+title = //h1/text()
+content = //p/text()
+other = //h2/text()
+url = //div/a/@href
